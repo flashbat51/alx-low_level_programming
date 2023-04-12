@@ -74,11 +74,10 @@ char **strtow(char *str)
 			{
 				words[b][c] = *found_word;
 				found_word++;
-				c++;
-			}
+				c++; }
 			words[b][c] = '\0';
 			b++;
 			c = 0;
 			length = 0;
-			str++;}}
-	return (words);}
+			str++; }}
+	return (words); }
