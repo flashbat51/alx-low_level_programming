@@ -1,0 +1,1 @@
+In C, pointers are used to hold variable or memory location addresses. This variable can be of any data type, such as an int, char, function, array, or pointer. Pointers are a fundamental notion in the C programming language that allows both low-level memory access and dynamic memory allocation.
